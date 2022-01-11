@@ -1,6 +1,7 @@
 h1{
     color: black;
-    text-align: center;
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 p {
     color: red;
@@ -8,7 +9,7 @@ p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 body{
-    background-color: whitesmoke;
+    background-color: white;
   
 }
 
@@ -16,6 +17,6 @@ img{
 
     height: 50rem;
     width: 78rem;
-    position: relative;
+    position: fixed;
     
 }
