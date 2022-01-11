@@ -1,13 +1,20 @@
 h1{
-    color: blue;
+    color: black;
     text-align: center;
 }
 p {
-    color: brown;
+    color: red;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 body{
     background-color: whitesmoke;
   
+}
+
+img{
+
+    height: 50rem;
+    position: relative;
+    
 }
