@@ -20,3 +20,8 @@ img{
     position: fixed;
     
 }
+
+nav{
+    position: relative;
+    align-items: center;
+}
