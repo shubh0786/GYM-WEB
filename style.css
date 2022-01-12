@@ -23,5 +23,8 @@ img{
 
 nav{
     position: relative;
-    align-items: center;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.4rem;
+    
 }
