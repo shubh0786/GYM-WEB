@@ -27,10 +27,15 @@ nav{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1.4rem;
     list-style: none;
+    background-color: black;
+    color: white;
+    line-gap-override: 2rem;
+    
+    width: 20rem;
 }
 
 li{
 
     display: inline;
-    
+
 }
