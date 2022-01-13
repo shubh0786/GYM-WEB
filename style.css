@@ -28,3 +28,9 @@ nav{
     font-size: 1.4rem;
     list-style: none;
 }
+
+li{
+
+    display: inline;
+    
+}
