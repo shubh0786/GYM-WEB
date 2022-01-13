@@ -29,7 +29,7 @@ nav{
     list-style: none;
     background-color: black;
     color: white;
-    line-gap-override: 2rem;
+
     
     width: 20rem;
 }
@@ -37,5 +37,7 @@ nav{
 li{
 
     display: inline;
+    background-color: tomato;
+    
 
 }
