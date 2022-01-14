@@ -47,5 +47,6 @@ button{
     color: tomato;
     background-color: black;
     border: none;
-    border-radius: 1cm;
+    border-radius: 0.2cm;
+    size: 20cm;
 }
